@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e8e2a13-6599-4240-9107-c125199e9965" name="Default Changelist" comment="restructured repo folders">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/portfolio_website.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/css/base.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/css/base.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/img/icons/hadoop.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/img/icons/hadoop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/img/icons/hadoop_50.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/img/icons/hadoop_50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/img/icons/jira.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/img/icons/jira.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/img/icons/jira_50.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/img/icons/jira_50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/img/icons/python.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/img/icons/python.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/img/icons/python_50.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/img/icons/python_50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/img/icons/spark.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/img/icons/spark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/img/icons/spark_50.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/img/icons/spark_50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/img/profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/img/profile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/js/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/js/base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/js/base.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/js/base.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/scss/_bootstrap-overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/scss/_bootstrap-overrides.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/scss/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/scss/_global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/scss/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/scss/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/scss/_nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/scss/_resume-item.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/scss/_resume-item.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/scss/resume.scss" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/scss/resume.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/css/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/css/all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/css/all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/css/brands.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/css/brands.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/css/brands.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/css/brands.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/css/fontawesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/css/fontawesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/css/fontawesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/css/fontawesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/css/regular.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/css/regular.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/css/regular.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/css/regular.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/css/solid.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/css/solid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/css/solid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/css/solid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/css/svg-with-js.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/css/svg-with-js.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/css/svg-with-js.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/css/svg-with-js.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/css/v4-shims.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/css/v4-shims.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/css/v4-shims.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/css/v4-shims.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/jquery-easing/jquery.easing.compatibility.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/jquery-easing/jquery.easing.compatibility.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/jquery-easing/jquery.easing.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/jquery-easing/jquery.easing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/jquery-easing/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/jquery-easing/jquery.easing.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/jquery/jquery.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/jquery/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/jquery/jquery.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/static/vendor/jquery/jquery.slim.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/static/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_website/portfolio_website/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/templates/home.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/portfolio_website.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="175" />
+    <option name="y" value="-24" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="portfolio_website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio_website" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="portfolio_website" type="Python.FlaskServer">
+      <module name="portfolio_website" />
+      <option name="target" value="$PROJECT_DIR$/portfolio_website/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e8e2a13-6599-4240-9107-c125199e9965" name="Default Changelist" comment="" />
+      <created>1564283105604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564283105604</updated>
+      <workItem from="1564283108446" duration="300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="300000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="restructured repo folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="restructured repo folders" />
+  </component>
+</project>
