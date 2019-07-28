@@ -9,3 +9,7 @@ app = Flask(__name__)
 @app.route("/home")
 def _route_home():
     return routes.route_home()
+
+@app.route("/projects/portfolio_website")
+def _route_project_portfolio_website():
+    return routes.route_get_project("portfolio_website")

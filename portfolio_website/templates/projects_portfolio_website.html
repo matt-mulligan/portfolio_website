@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="portfolio">
+        <div class="w-100">
+            <h2>Project - Portfolio Website</h2>
+                <h4 class="subheading">Technologies: Python, Flask, HTML, CSS, Javascript</h4>
+                <h4 class="subheading mb-3">Concepts: Flask Development, Bootstrap</h4>
+                <h4 class="subheading mb-3">
+                    <a href="https://github.com/matt-mulligan/portfolio_website">View this project on github</a>
+                </h4>
+                <p>An obvious one to start with, my website! full disclaimer, I dont consider myself a web
+                    developer, but once I heard there was a python web framework I just had to give it a whirl.</p>
+
+                <h5>Flask Vs Django</h5>
+                <p>The key decision I had to make once I decided to make a website was what framework should I use?
+                    Python has two main web frameworks availiable, Flask and Django. Now i'm a little bit of a
+                    perfectionist, so after an afternoon of fervent searching stack overflow and youtube I still
+                    wasnt able to get a definative answer as to which framework was better. the overwhelming message
+                    I seemed to get back from the community was that both the frameworks were great, both can be used
+                    at scale and the key difference is that Django is more of a full featured framework, but that
+                    can come with some restrictions on how you use it. FLask on the other hand is more lightweight
+                    and flexible, but with more flexibility can come more work</p>
+                <p>I ended going with flask as it was a more lightweight framework and was easier to achieve a basic
+                    website which is all i needed for this project. If i ever dabble again in web development I might
+                    give django a try for comparison</p>
+
+                <h5>Flask: Less Web, More Dev</h5>
+                <p>For someone who isnt a web developer (and who never had any real taste for web development) this
+                    framework has made the development of the website very simple. the way flask handles routes using
+                    app decorators was very easy to pick up and allowed for simplified management of routing based on
+                    parameterised methods. As this website is quite basic, i didnt get into much more of flasks
+                    features like forms and sql storage. that being said, flask does have a strong community of
+                    packages to handle these features such as
+                    <a href="https://flask-wtf.readthedocs.io/en/stable/">flask-wtf</a> for forms management and
+                    <a href="https://flask-sqlalchemy.palletsprojects.com/en/2.x/">flask-sqlalchemy</a> for integration
+                    with the sqlalchemy package</p>
+                <p>In terms of python used for this project, there is still quite little, at its core this website is still an
+                    exercise in html/css/js, not even flask can achieve web development in pure python
+                    unfortunately.</p>
+
+                <h5>Bootstrap: HTML/CSS/JS made easier</h5>
+                <p>I would say a major part of why I was never really any good at web dev was my lack of artistic style.
+                    Web dev seems to be that rare speciality that truely is a mix of art and science and unfortunately
+                    for me i never quite had enough of the art side. but thankfully this project also introduced me to
+                    the bootstrap framework. Originally written by twitter, bootstrap is an open source toolkit for
+                    developing with html/css/js. Bootstrap has a thriving community of creators who produce themes to
+                    use for free, which was a great relief as I have ZERO artistic design skills. a big shout out to
+                    startbootstrap.com who provided the
+                    <a href="https://startbootstrap.com/themes/resume/">bootstrap theme</a> for this site. I'd highly
+                    recommend anyone looking at starting web development to check out the bootstrap library to
+                    dramatically improve your websites presentation</p>
+
+                <h5>Deploying The Website</h5>
+                <p>after I had built my flask app and was ahppy with it, I then had to figure out hwo to host it an
+                    point my domain at it. I went through a couple attempts at this, first trying to have my domain
+                    service host a web server for me, but after numerous attempts to get python working properly on
+                    their system I moved away from that Idea. What I ended up doing was having the website hosted at
+                    www.pythonanywhere.com. This service is purpose built to host pyhton web applications and was
+                    dead easy to get my flask app running and pointed at my domain. I would highly recommend their
+                    services for any web app you want to host.</p>
+
+                <h5>Learn Flask</h5>
+                <p>As I said, i didnt know any flask before this and was still able to make a new website in a weekend.
+                    That was only possible by utilising
+                    <a href="https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH">Corey Schafer's
+                        excellent youtube series</a>
+                    showing how to build a fully featured web app using flask. I intend to put his series in my
+                    learning resources section when I get time but his series have been a tremendous help</p>
+
+        </div>
+    </section>
+
+{% endblock content %}
