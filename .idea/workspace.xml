@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e8e2a13-6599-4240-9107-c125199e9965" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/portfolio_website/templates/projects_portfolio_website.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_website/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,50 +13,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio_website/templates/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="193" column="87" selection-start-line="193" selection-start-column="37" selection-end-line="193" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio_website/templates/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="65" column="18" lean-forward="true" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio_website/routes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio_website/app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/portfolio_website/templates/projects_portfolio_website.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="61" column="20" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="187">
+                <caret line="11" selection-start-line="11" selection-end-line="11" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -83,6 +43,7 @@
         <option value="$PROJECT_DIR$/portfolio_website/routes.py" />
         <option value="$PROJECT_DIR$/portfolio_website/templates/home.html" />
         <option value="$PROJECT_DIR$/portfolio_website/templates/projects_portfolio_website.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -114,17 +75,6 @@
             <path>
               <item name="portfolio_website" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="D:\git-repos\portfolio_website" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="portfolio_website" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\git-repos\portfolio_website" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="portfolio_website" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="portfolio_website" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\git-repos\portfolio_website" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="portfolio_website" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -185,7 +135,10 @@
       <option name="presentableId" value="Default" />
       <updated>1564283105604</updated>
       <workItem from="1564283108446" duration="557000" />
-      <workItem from="1564283738353" duration="8585000" />
+      <workItem from="1564283738353" duration="8828000" />
+      <workItem from="1564293400529" duration="120000" />
+      <workItem from="1564391418693" duration="42000" />
+      <workItem from="1564391772798" duration="978000" />
     </task>
     <task id="LOCAL-00001" summary="restructured repo folders">
       <created>1564283428659</created>
@@ -194,22 +147,29 @@
       <option name="project" value="LOCAL" />
       <updated>1564283428659</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added new project to website">
+      <created>1564293274646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564293274646</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9142000" />
+    <option name="totallyTimeSpent" value="10525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -232,7 +192,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="restructured repo folders" />
-    <option name="LAST_COMMIT_MESSAGE" value="restructured repo folders" />
+    <MESSAGE value="added new project to website" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new project to website" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/portfolio_website$portfolio_website.coverage" NAME="portfolio_website Coverage Results" MODIFIED="1564293170425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -266,17 +227,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio_website/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/portfolio_website/templates/projects_portfolio_website.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="65" column="18" lean-forward="true" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio_website/routes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="563">
+          <caret line="63" column="19" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -290,17 +244,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio_website/routes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio_website/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio_website/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
+        <state relative-caret-position="818">
           <caret line="193" column="87" selection-start-line="193" selection-start-column="37" selection-end-line="193" selection-end-column="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio_website/templates/projects_portfolio_website.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="61" column="20" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
