@@ -15,4 +15,4 @@ This is not intended as a serious project open for contributions
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/) 
+[GPL-3](https://choosealicense.com/licenses/gpl-3.0/) 
